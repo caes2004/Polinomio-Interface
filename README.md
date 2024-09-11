@@ -7,4 +7,4 @@ Teniendo en cuenta las indicaciones brindadas en el repositorio del curso.
 •Multiplicar dos Polinomios
 •Eliminar término de un Polinomio
 
-repositorio del curso: https://github.com/JohnFlorez25/estructuras-datos/tree/main/1.%20Polinomios/2.%20Vector%20Forma%202/PolVF2
+Repositorio del curso: https://github.com/JohnFlorez25/estructuras-datos/tree/main/1.%20Polinomios/2.%20Vector%20Forma%202/PolVF2
